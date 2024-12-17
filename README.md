@@ -1,4 +1,4 @@
-# System Analysis Test Task
+# System Analyst Test Task
 test task keys&amp;sql&amp;databases&amp;selenium(optional)
 
 ![KOT|224x225](src/kott.jpg)
