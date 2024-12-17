@@ -6,12 +6,15 @@ https://docs.google.com/document/d/1ljsjocn5xD9UWKvIqacJVT_BVj6vT5iYGszuxev4oF8/
 *Rus and Eng versions in the one file
 
 ## TASK 1. USER CASES:  (browser search -> apllying with a multiple resumes)
-User Case 1:* Access to the website hh.ru through a search engine using a browser, an initial analysis of the site's capabilities & viewing vacancies*
-User Case 2: *Job search and analysis. The "Contacts" button, authorization.*
-User Case 3: *Job Search*
-User Case 4: *Resume Placement*
-User Case 5:* A response to a vacancy with one resume.*
-User Case 5: *A response to a vacancy with one resume.*
+|USER CASE  | SCENARY |
+| ------------- | ------------- |
+| User Case 1: | *Access to the website hh.ru through a search engine using a browser, an initial analysis of the site's capabilities & viewing vacancies* |
+| User Case 2:  | *Job search and analysis. The "Contacts" button, authorization.*  |
+| User Case 3: | *Job Search* |
+| User Case 4:  | *Resume Placement*  |
+| User Case 5: | *A response to a vacancy with one resume.* |
+| User Case 6:  | *A response to a vacancy with one resume.* |
+
 
 
 ## TASK 2. THE CODE(SQL)
